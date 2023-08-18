@@ -1,1 +1,1 @@
-export  const GQL_URL="http://localhost:3000/api"
+export  const GQL_URL="https://tinyurl-5ici.onrender.com/api"
